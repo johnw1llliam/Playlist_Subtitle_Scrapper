@@ -2,9 +2,9 @@
 This Python script uses Selenium with undetected_chromedriver to automate downloading subtitles for videos in a YouTube playlist. It fetches video links from a playlist, retrieves subtitles using DownSub, cleans the subtitle format, and adds a prompt to each subtitle file.
 
 # Requirements
-Python 3.x
-Selenium (pip install selenium)
-undetected_chromedriver (pip install undetected-chromedriver)
+- Python 3.x
+- Selenium (pip install selenium)
+- undetected_chromedriver (pip install undetected-chromedriver)
 
 # Setup
 - Clone the repository:
