@@ -23,4 +23,4 @@ Update CHROME_PROFILE_PATH in the script with your Chrome profile path.
 
 - Add desired prompt:
 
-Update the prompt according to your needs
+Update the prompt according to your needs.
